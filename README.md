@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **rojects related to Front End Web Development using ReactJS**
+- 👯 I’m looking to collaborate on **projects related to Front End Web Development using ReactJS**
 
 - 📫 How to reach me **syeddilawar4444@gmail.com**
 
